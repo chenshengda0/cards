@@ -11,3 +11,8 @@
 1. yarn
 2. yarn start
 ```
+
+#DFS
+```
+yarn dfs
+```
