@@ -35,3 +35,6 @@ yarn water
 ### 參考文檔
 1. [動畫圖解八皇后(更新攻擊範圍)](https://www.bilibili.com/video/BV1HZ4y1A7uV/?spm_id_from=333.880.my_history.page.click&vd_source=bc7276ac46120ca2832695c9d18e89ad)
 2. [解數獨(二維數組轉一維回溯)](https://www.bilibili.com/video/BV1mF411K7K6/?spm_id_from=333.788&vd_source=bc7276ac46120ca2832695c9d18e89ad)
+
+### 文檔
+1. [web3](https://learnblockchain.cn/docs/web3.js/index.html)
