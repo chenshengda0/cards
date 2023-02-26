@@ -31,3 +31,6 @@ yarn water
 
     2.添加鏈接： [Puppeteer 官方文档](https://pptr.dev/api/)
 ```
+
+### 參考文檔
+1. [動畫圖解八皇后](https://www.bilibili.com/video/BV1HZ4y1A7uV/?spm_id_from=333.880.my_history.page.click&vd_source=bc7276ac46120ca2832695c9d18e89ad)
