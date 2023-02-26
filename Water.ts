@@ -1,12 +1,12 @@
-class Recursive{
+class Water{
 
-    private static Instance:Recursive;
+    private static Instance:Water;
     private constructor(){}
     static async getInstance(){
-        if( !Recursive.Instance ){
-            Recursive.Instance = new Recursive()
+        if( !Water.Instance ){
+            Water.Instance = new Water()
         }
-        return Recursive.Instance;
+        return Water.Instance;
     }
 
     async five(){
@@ -111,10 +111,10 @@ class Recursive{
 }
 
 ;(async()=>{
-    const recursive = await Recursive.getInstance()
+    const water = await Water.getInstance()
     console.log( "/**********************************************************************平分出5L水******************************************************************/" )
     console.log( "從10L/10L、7L/0L、3L/0L三個容器中將水平分成兩份" )
-    await recursive.five()
+    await water.five()
     console.log( "/**********************************************************************平分出5L水******************************************************************/" )
 })();
 export {

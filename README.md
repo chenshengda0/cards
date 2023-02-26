@@ -21,5 +21,13 @@ yarn start
 ### WATER
 ![image](https://github.com/chenshengda0/cards/blob/main/static/water.jpeg)
 ```
-yarn dfs
+yarn water
+```
+
+### TODO
+```
+    1.添加圖片: ![image](https://github.com/chenshengda0/cards/blob/main/static/water.jpeg)
+
+
+    2.添加鏈接： [Puppeteer 官方文档](https://pptr.dev/api/)
 ```
