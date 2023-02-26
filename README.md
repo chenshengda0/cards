@@ -19,7 +19,7 @@ yarn start
 ```
 
 ### WATER
-![image](https://github.com/chenshengda0/cards/static/water.jpeg)
+![image](https://github.com/chenshengda0/cards/blob/main/static/water.jpeg)
 ```
 yarn dfs
 ```
